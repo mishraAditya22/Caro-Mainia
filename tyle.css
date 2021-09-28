@@ -1,0 +1,86 @@
+*{
+    margin: 0%;
+    background-attachment: scroll;
+}
+h1{
+    position: absolute;
+    left: 4%;
+    color: powderblue;
+    font-family: 'Birthstone', cursive;
+}
+#true_val_tag{
+    position: absolute;
+    right: 4%;
+    color: powderblue;
+    font-family: 'Birthstone', cursive;
+    text-transform: capitalize;
+}
+.nav_bar ul{
+    margin-top: 0%;
+    text-align: right;
+    background-color: powderblue;
+    padding: 20px;
+}
+.nav_bar li{
+    list-style: none;
+    display: inline-block;
+    padding-left: 3%;
+    margin-top: 0%;
+}
+.nav_bar a{
+    color: white;
+    text-decoration: none;
+}
+.nav_bar a:hover{
+    color:powderblue;
+    text-transform: uppercase;
+    background-color: white;
+    padding: 12px;
+}
+.top_container{
+    padding-top: 30px;
+    position: relative;
+    background-color:white;
+}
+#middle_img{
+    margin-top: 35px;
+    padding-top: 14px;
+    display: flex;
+    flex-direction: column;
+}
+.middle_container{
+    padding-top: 35px;
+    font-family: sans-serif;
+}
+.details{
+    margin-top: 56px;
+    padding-top: 15px;
+    text-align: left;
+    text-transform: capitalize;
+    position: relative;    
+}
+#formz{
+    display: block;
+    word-spacing: 8%;
+}
+.bottom_conatiner{
+    margin-top: 32px;
+    padding-top: 89px;
+    color: white;
+    background-color: powderblue;
+    text-transform: capitalize;
+}
+#creater_info{
+    padding-top: 23px;
+    text-align: center;
+}
+#creater_info li{
+    list-style: none;
+    display: inline-block;
+    padding-left: 3%;
+    margin-top: 0%;
+}
+#creater_info a{
+    color: white;
+    text-decoration: none;
+}
